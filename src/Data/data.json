@@ -1,0 +1,248 @@
+{
+    "header": {
+        "logo_url": "https://strodle-web.s3-us-west-2.amazonaws.com/logo.svg",
+        "logoLink": "#",
+        "bars_url": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/bars.svg",
+        "hero_url": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/hero.svg",
+        "shapeOne": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/shape-1.svg",
+        "shapeTwo": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/shape-2.svg",
+        "shapeThree": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/shape-3.svg",
+        "shapeFour": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/shape-4.svg",
+        "shapeFive": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/shape-5.svg",
+        "shapeSix": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/shape-6.svg",
+        "shapeSeven": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/shape-7.svg",
+        "shapeEight": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/shape-8.svg",
+        "nav": [{
+                "name": "Home",
+                "link": "#home"
+            },
+            {
+                "name": "How it Works",
+                "link": "#work"
+            },
+            {
+                "name": "Features",
+                "link": "#features"
+            },
+            {
+                "name": "Locations",
+                "link": "#locations"
+            }
+        ],
+        "button": {
+            "name": "Download App",
+            "link": "#"
+        }
+    },
+    "home": {
+        "title": "Rent a stroller for your next trip!",
+        "summary": "Strodle is a mobile app which enable users to hire stroller from there nearby location when they are on a trip also user can rent there stroller if they want to.",
+        "button": [
+            {
+                "title": "Download App",
+                "link": "#"
+            },
+            {
+                "title": "Watch the video",
+                "link": "#"
+            }
+        ]
+    },
+    "works": {
+        "title": "How it works",
+        "summary": "6 easy steps only",
+        "arrow_url": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/arrow.svg",
+        "shape_left": "https://strodle-web.s3-us-west-2.amazonaws.com/shape/left.svg",
+        "steps": [{
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/work-thumb-1.svg",
+                "summary": "You sign up for the mobile app",
+                "id": 1,
+                "class": "col-xl-4 col-lg-4 col-md-6 order-xl-1 order-lg-1 order-1",
+                "link": "#",
+                "first_icon": true,
+                "icon_link": "#"
+            },
+            {
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/work-thumb-2.svg",
+                "summary": "Look for strollers in the city of your choice",
+                "id": 2,
+                "class": "col-xl-4 col-lg-4 col-md-6 order-xl-2 order-lg-2 order-2",
+                "link": "#"
+            },
+            {
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/work-thumb-3.svg",
+                "summary": "Pick a pickup location and a drop of point",
+                "id": 3,
+                "class": "col-xl-4 col-lg-4 col-md-6 order-xl-3 order-lg-3 order-3",
+                "link": "#"
+            },
+            {
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/work-thumb-4.svg",
+                "summary": "Return the stroller and the owner scanning your code",
+                "id": 6,
+                "class": "col-xl-4 col-lg-4 col-md-6 order-xl-4 order-lg-4 order-md-6 order-6",
+                "link": "#",
+                "sec_icon": true,
+                "icon_link": "#"
+            },
+            {
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/work-thumb-5.svg",
+                "summary": "Pick up the stroller by scanning the QR code on the owner’s phone",
+                "id": 5,
+                "class": "col-xl-4 col-lg-4 col-md-6 order-xl-5 order-lg-5 order-5",
+                "link": "#"
+            },
+            {
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/work-thumb-6.svg",
+                "summary": "Pay receiver the agreed amount",
+                "id": 4,
+                "class": "col-xl-4 col-lg-4 col-md-6 order-xl-6 order-lg-6 order-md-4 order-4",
+                "link": "#"
+            }
+        ]
+    },
+    "features": {
+        "title": "Features",
+        "summary": "Make your trips hassle free and awesome with some clicks only!",
+        "featureOne_url": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/feature-1.svg",
+        "featureTwo_url": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/feature-2.svg",
+        "types": [
+            {
+            "level": "Owner",
+            "feature": [
+                "List multiple strollers on Strodle",
+                "Make Up to 80% whenever someone rents your stroller on Strodle",
+                "Make extra income by charging cleaning fee and drop of fee",
+                "Manage stroller availability"
+            ]
+        },
+        {
+            "level": "Renter",
+            "feature": [
+                "Search stroller by location(United states and Canada)",
+                "Strollers for everyone, including pets",
+                "Have a realtime conversation with the stroller owner",
+                "View reviews and pictures of the stroller"
+            ]
+        }
+    ]
+    },
+    "slider": {
+        "title": "Smart & User Friendly App",
+        "summary": "Explore the screenshots of our app",
+        "image": [
+            "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/screenshot-1.svg",
+            "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/screenshot-2.svg",
+            "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/screenshot-3.svg",
+            "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/screenshot-4.svg",
+            "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/screenshot-5.svg",
+            "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/screenshot-1.svg"
+        ]
+    },
+    "testimonial": {
+        "title": "Customer Testimonials",
+        "summary": "What they are saying about our service",
+        "review": [
+            {
+                "comment": "Reflections, that phase to and in western your thinks not have changes side small supposedly suppose for they cache however.",
+                "name": "Margaret Susan",
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/author/author-1.svg"
+            },
+            {
+                "comment": "Reflections, that phase to and in western your thinks not have changes side small supposedly suppose for they cache however.",
+                "name": "Margaret Susan",
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/author/author-2.svg"
+            },
+            {
+                "comment": "Reflections, that phase to and in western your thinks not have changes side small supposedly suppose for they cache however.",
+                "name": "Margaret Susan",
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/author/author-1.svg"
+            },
+            {
+                "comment": "Reflections, that phase to and in western your thinks not have changes side small supposedly suppose for they cache however.",
+                "name": "Margaret Susan",
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/author/author-2.svg"
+            },
+            {
+                "comment": "Reflections, that phase to and in western your thinks not have changes side small supposedly suppose for they cache however.",
+                "name": "Margaret Susan",
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/author/author-1.svg"
+            },
+            {
+                "comment": "Reflections, that phase to and in western your thinks not have changes side small supposedly suppose for they cache however.",
+                "name": "Margaret Susan",
+                "image": "https://strodle-web.s3-us-west-2.amazonaws.com/author/author-2.svg"
+            }
+        ]
+    },
+    "map": {
+        "title": "We are Available",
+        "summary": "For now we are available to few cities fo Canada and USA",
+        "img": "https://strodle-web.s3-us-west-2.amazonaws.com/thumb/map.svg"
+    },
+    "cta": {
+        "title": "Download Strodle",
+        "summary": "Available for IOS and android devices, download and play!!",
+        "button": [
+            {
+                "title": "Google Play",
+                "link": "#"
+            },
+            {
+                "title": "App Store",
+                "link": "#"
+            }
+        ]
+    },
+    "footer": {
+        "logo": "https://strodle-web.s3-us-west-2.amazonaws.com/app-icon.svg",
+        "listOne": [
+            {
+                "title": "Support Center",
+                "link": "#"
+            },
+            {
+                "title": "Customer Support",
+                "link": "#"
+            },
+            {
+                "title": "About Us",
+                "link": "#"
+            },
+            {
+                "title": "Copyright",
+                "link": "#"
+            }
+        ],
+        "listTwo": [
+            {
+                "title": "Contact",
+                "link": "#"
+            },
+            {
+                "title": "Terms of Services",
+                "link": "#"
+            },
+            {
+                "title": "Privacy Policy",
+                "link": "#"
+            }
+        ],
+        "socialLink": [
+            {
+                "facebook": "#"
+            },
+            {
+                "twitter": "#"
+            },
+            {
+                "google": "#"
+            },
+            {
+                "linkedin": "#"
+            }
+        ],
+        "title": "Follow Strodle",
+        "copyright": "Copyright Strodle 2020"
+    }
+}
