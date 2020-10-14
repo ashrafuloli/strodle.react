@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/strodle.react/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/strodle.react/static/js/main.52813df6.chunk.js",
+    "main.js.map": "/strodle.react/static/js/main.52813df6.chunk.js.map",
+    "runtime-main.js": "/strodle.react/static/js/runtime-main.ac1a4a81.js",
+    "runtime-main.js.map": "/strodle.react/static/js/runtime-main.ac1a4a81.js.map",
+    "static/js/2.77971e3e.chunk.js": "/strodle.react/static/js/2.77971e3e.chunk.js",
+    "static/js/2.77971e3e.chunk.js.map": "/strodle.react/static/js/2.77971e3e.chunk.js.map",
+    "index.html": "/strodle.react/index.html",
+    "precache-manifest.e35204b222e87d0ef8c9cf521a421efc.js": "/strodle.react/precache-manifest.e35204b222e87d0ef8c9cf521a421efc.js",
+    "service-worker.js": "/strodle.react/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/strodle.react/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.77971e3e.chunk.js.LICENSE.txt": "/strodle.react/static/js/2.77971e3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac1a4a81.js",
+    "static/js/2.77971e3e.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.52813df6.chunk.js"
+  ]
+}
